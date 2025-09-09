@@ -1,3 +1,5 @@
+From conceptual design to relational schema, then from relational schema to SQL - I used Java-JDBC to connect the Java back/frontend with PostgreSQL to support the sales operations for a fictional car sales company. Below is how to run it.
+
 # How to compile in Linux/Unix:
     $ ./build.sh
 
